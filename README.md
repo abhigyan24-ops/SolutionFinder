@@ -20,9 +20,9 @@
 
 ## 📖 The Story
 
-In 2020, **Abhigyan** was a Class 8 student who noticed that many of his classmates struggled to find joy in learning mathematics. As a passion project, he built the first version of Solution Finder — a website with live chat support, YouTube explainer videos, and custom JavaScript calculators to help students verify their homework answers instantly, without having to wait for the next day's class.
+In 2020, I was a Class 8 student who noticed that many of his classmates struggled to find joy in learning mathematics. As a passion project, he built the first version of Solution Finder — a website with live chat support, YouTube explainer videos, and custom JavaScript calculators to help students verify their homework answers instantly, without having to wait for the next day's class.
 
-Fast forward to 2024 — Abhigyan joined **BMS Institute of Technology** to pursue Computer Science Engineering. This repository is his effort to rebuild that childhood passion project using the modern tech stack he works with today, bringing the same helpful spirit to a far more polished product.
+Fast forward to 2025 — I joined **BMS Institute of Technology** to pursue Computer Science Engineering. This repository is his effort to rebuild that childhood passion project using the modern tech stack he works with today, bringing the same helpful spirit to a far more polished product.
 
 ---
 
